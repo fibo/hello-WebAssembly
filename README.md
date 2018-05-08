@@ -4,7 +4,7 @@
 
 ## Instructions
 
-Compile *hello-world.wat* file to *hello-world.wasm*.
+Compile *the-answer.wat* file to *the-answer.wasm*.
 
 ```bash
 $ node wat2wasm.js
